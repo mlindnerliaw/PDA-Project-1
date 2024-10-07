@@ -1,1 +1,3 @@
 # PDA-Project-1
+
+This project conducts a thorough exploratory data analysis of marathon data from 5 US marathons from the years 1993 to 2016. The data set contains race location, year, sex of runner, finishing time as percent course record, and weather condition variables including wet, dry, and black globe temperatures, relative huidity, and solar radiation. The goal of the EDA is to explore the effect of increasing age on marathon performance in both sexes, investigate whether weather conditions affect finishing times and whether those effect differ by sex and age, and determine which weather parameters have the largest impact on marathon performance.   
